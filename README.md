@@ -1,4 +1,4 @@
-# Olá! I'm Kauã 👋
+# Hi, I'm Kauã 👋
 
 <div align="center">
 
