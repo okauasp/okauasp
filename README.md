@@ -1,16 +1,48 @@
-## Hi there 👋
+# Olá! I'm Kauã 👋
 
-<!--
-**okauasp/okauasp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=okauasp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=okauasp&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+💻 Focused on learning programming  
+📚 Studying Java and backend development  
+🎵 Musician  
+🌟 Always improving and learning new things  
+
+---
+
+## 🛠️ Technologies
+
+<div align="center">
+
+<img height="40" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+<img height="40" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+
+</div>
+
+---
+
+## 🌐 Connect with me
+
+<div align="center">
+
+<a href="https://mail.google.com/mail/?view=cm&to=ksousapaulo08@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/kau%C3%A3-sousa-42773b3b0/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
