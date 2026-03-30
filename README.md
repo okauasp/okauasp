@@ -4,7 +4,7 @@
 
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=okauasp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=okauasp&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=okauasp&theme=tokyonight"/>
 
 </div>
 
@@ -19,23 +19,15 @@
 
 ---
 
-## 🛠️ Technologies
-
-<div align="center">
-
-<img height="40" width="40"
+<img align="left" height="40" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
 <img height="40" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 
-</div>
-
 ---
 
-## 🌐 Connect with me
-
-<div align="center">
+<div>
 
 <a href="https://mail.google.com/mail/?view=cm&to=ksousapaulo08@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
